@@ -1,0 +1,54 @@
+@charset "utf-8";
+
+
+@font-face {
+    font-family: PoppinsBold;
+    src: url(fonts/Poppins-Bold.otf);
+}
+
+@font-face {
+    font-family: PoppinsExtraBold;
+    src: url(fonts/Poppins-ExtraBold.otf);
+}
+
+
+@font-face {
+    font-family: PoppinsLight;
+    src: url(fonts/Poppins-Light.otf);
+}
+
+@font-face {
+    font-family: PoppinsMedium;
+    src: url(fonts/Poppins-Medium.otf);
+}
+
+@font-face {
+    font-family: PoppinsRegular;
+    src: url(fonts/Poppins-Regular.otf);
+}
+
+@font-face {
+    font-family: PoppinsSemiBold;
+    src: url(fonts/Poppins-SemiBold.otf);
+}
+
+@font-face {
+    font-family: PrestigeEliteStdBd;
+    src: url(fonts/PrestigeEliteStd-Bd.otf);
+}
+
+@font-face {
+    font-family: DINProLight;
+    src: url(fonts/DINPro-Light.ttf);
+}
+
+@font-face {
+    font-family: DINMedium;
+    src: url(fonts/DINbek-Medium_0.ttf);
+}
+
+@font-face {
+    font-family: FairProsper;
+    src: url(fonts/Fair-Prosper.ttf);
+}
+
